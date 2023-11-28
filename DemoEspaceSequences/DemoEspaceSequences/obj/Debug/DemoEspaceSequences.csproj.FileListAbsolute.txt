@@ -1,0 +1,7 @@
+C:\Users\danea\Desktop\CIS112 Computer Programming\You_Do_It_Chapter2\DemoEspaceSequences\DemoEspaceSequences\bin\Debug\DemoEspaceSequences.exe.config
+C:\Users\danea\Desktop\CIS112 Computer Programming\You_Do_It_Chapter2\DemoEspaceSequences\DemoEspaceSequences\bin\Debug\DemoEspaceSequences.exe
+C:\Users\danea\Desktop\CIS112 Computer Programming\You_Do_It_Chapter2\DemoEspaceSequences\DemoEspaceSequences\bin\Debug\DemoEspaceSequences.pdb
+C:\Users\danea\Desktop\CIS112 Computer Programming\You_Do_It_Chapter2\DemoEspaceSequences\DemoEspaceSequences\obj\Debug\DemoEspaceSequences.csproj.AssemblyReference.cache
+C:\Users\danea\Desktop\CIS112 Computer Programming\You_Do_It_Chapter2\DemoEspaceSequences\DemoEspaceSequences\obj\Debug\DemoEspaceSequences.csproj.CoreCompileInputs.cache
+C:\Users\danea\Desktop\CIS112 Computer Programming\You_Do_It_Chapter2\DemoEspaceSequences\DemoEspaceSequences\obj\Debug\DemoEspaceSequences.exe
+C:\Users\danea\Desktop\CIS112 Computer Programming\You_Do_It_Chapter2\DemoEspaceSequences\DemoEspaceSequences\obj\Debug\DemoEspaceSequences.pdb

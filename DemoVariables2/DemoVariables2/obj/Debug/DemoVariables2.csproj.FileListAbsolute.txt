@@ -1,0 +1,7 @@
+C:\Users\danea\Desktop\CIS112 Computer Programming\You_Do_It_Chapter2\DemoVariables2\DemoVariables2\bin\Debug\DemoVariables2.exe.config
+C:\Users\danea\Desktop\CIS112 Computer Programming\You_Do_It_Chapter2\DemoVariables2\DemoVariables2\bin\Debug\DemoVariables2.exe
+C:\Users\danea\Desktop\CIS112 Computer Programming\You_Do_It_Chapter2\DemoVariables2\DemoVariables2\bin\Debug\DemoVariables2.pdb
+C:\Users\danea\Desktop\CIS112 Computer Programming\You_Do_It_Chapter2\DemoVariables2\DemoVariables2\obj\Debug\DemoVariables2.csproj.AssemblyReference.cache
+C:\Users\danea\Desktop\CIS112 Computer Programming\You_Do_It_Chapter2\DemoVariables2\DemoVariables2\obj\Debug\DemoVariables2.csproj.CoreCompileInputs.cache
+C:\Users\danea\Desktop\CIS112 Computer Programming\You_Do_It_Chapter2\DemoVariables2\DemoVariables2\obj\Debug\DemoVariables2.exe
+C:\Users\danea\Desktop\CIS112 Computer Programming\You_Do_It_Chapter2\DemoVariables2\DemoVariables2\obj\Debug\DemoVariables2.pdb

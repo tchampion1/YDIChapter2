@@ -1,0 +1,7 @@
+C:\Users\danea\Desktop\CIS112 Computer Programming\You_Do_It_Chapter2\InteractiveAddition\InteractiveAddition\bin\Debug\InteractiveAddition.exe.config
+C:\Users\danea\Desktop\CIS112 Computer Programming\You_Do_It_Chapter2\InteractiveAddition\InteractiveAddition\bin\Debug\InteractiveAddition.exe
+C:\Users\danea\Desktop\CIS112 Computer Programming\You_Do_It_Chapter2\InteractiveAddition\InteractiveAddition\bin\Debug\InteractiveAddition.pdb
+C:\Users\danea\Desktop\CIS112 Computer Programming\You_Do_It_Chapter2\InteractiveAddition\InteractiveAddition\obj\Debug\InteractiveAddition.csproj.AssemblyReference.cache
+C:\Users\danea\Desktop\CIS112 Computer Programming\You_Do_It_Chapter2\InteractiveAddition\InteractiveAddition\obj\Debug\InteractiveAddition.csproj.CoreCompileInputs.cache
+C:\Users\danea\Desktop\CIS112 Computer Programming\You_Do_It_Chapter2\InteractiveAddition\InteractiveAddition\obj\Debug\InteractiveAddition.exe
+C:\Users\danea\Desktop\CIS112 Computer Programming\You_Do_It_Chapter2\InteractiveAddition\InteractiveAddition\obj\Debug\InteractiveAddition.pdb
